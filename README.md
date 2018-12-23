@@ -13,4 +13,5 @@ culture, knowledge and, be brave, effort, rest, never ending practice.
     
   And forget not taking a break, feed the fire to stay warm,  
   walk Caju the dog, breathe, and celebrate the happy times,  
-  family offered you. Karen was struggling with baby Chloé at home.
+  family offered you. Karen was struggling with baby Chloé at home,  
+  Yves working intensively to finish our last assignment at work.
