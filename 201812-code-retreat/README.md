@@ -1,11 +1,9 @@
 # Code retreat 12.2018
 
-Contamines-Montjoie, 4 days in a chalet, with Caju.  
-Code & study, quietly.
+Contamines-Montjoie, 4 days in a chalet, with Caju.
+Code & study, quietly. [Next retreat »](../201902-code-retreat/README.md)
 
 <img height=120 src="images/201812-cmj/20181219-1054-thumb_321bd.jpg"><img height=120 src="images/201812-cmj/20181219-1055-thumb_321ba.jpg"><img height=120 src="images/201812-cmj/20181219-1341-thumb_321c0.jpg"><img height=120 src="images/201812-cmj/20181220-2010-thumb_321e3.jpg"><img height=120 src="images/201812-cmj/20181221-2124-learning-web-workers.png"><img height=120 src="images/201812-cmj/20181221-0015-thumb_321e7.jpg"><img height=120 src="images/201812-cmj/20181221-1057-thumb_321f0.jpg"><img height=120 src="images/201812-cmj/20181221-1601-thumb_321f7.jpg"><img height=120 src="images/201812-cmj/20181222-1514-thumb_321fd.jpg"><img height=120 src="images/201812-cmj/20180131-andante.jpg">
-
-[Next retreat](../2019/README.md)
 
 ## Subjects examined & experiments
 
