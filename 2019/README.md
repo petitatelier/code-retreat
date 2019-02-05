@@ -4,7 +4,7 @@
 
 Yves, Olivier & Caju @ Chalet of close friends, Contamines-Montjoie
 
-* [Previous](../2018/201812-cmj.md)
+* [Previous](../2018/README.md)
 * [Week 1](20190204.md)
 * [Week 2](#todo)
 * [Week 3](#todo)
