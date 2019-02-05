@@ -1,5 +1,7 @@
 # Code retreats · `GOTO flow`
 
+[![Chat on Slack](./.chat-on-slack.svg)](https://petit-atelier.slack.com/messages/CFYLHHC1G/)
+
 Once in a while, we should retreat to study, practice, enjoy quiet time, meditate.  
 Get insights, get inspired, by the practice, by others amazing work.  
 Be honest. Step out of the frame. May be it is not that much about us.
