@@ -42,8 +42,9 @@ On our way to _Theater Decision Making_, [Data glyphs](https://github.com/olange
 ## Research Projects
 
 * [Dglyphs](https://github.com/olange/noia)
-* Poliscope Data pipes › EDN⟶Web Components (publishing engine pour Yves!?)
+* Poliscope Data pipes › EDN ⟷ Web Components (publishing pipeline & engine pour Yves!?)
 * Neo4j 3.5 & Sync with Firestore
+* Scan, classify & organize
 
 ## Alternative tracks
 
