@@ -29,6 +29,7 @@ On our way to _Theater Decision Making_, [Data glyphs](https://github.com/olange
   * [Dgraph](https://blog.dgraph.io/post/badger-over-rocksdb-in-dgraph/)
 * Knowledge documentation
   * [Kumu](https://kumu.io/)
+  * [ObservableHQ](https://beta.observablehq.com/)
 
 ## Company
 
