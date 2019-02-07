@@ -22,7 +22,8 @@ On our way to _Theater Decision Making_, [Data glyphs](https://github.com/olange
   * [Cytoscape](https://cytoscape.org/)
   * [Cola.js](https://ialab.it.monash.edu/webcola/)
   * [Viz.js](https://github.com/mdaines/viz.js/)
-  * [Hamiltonian Graph Builder](http://bl.ocks.org/christophermanning/1703449?lcfCode=[10]100&animationSpeed=1&lockVertices=0)
+  * [Hamiltonian Graph Builder](http://bl.ocks.org/christophermanning/1703449?lcfCode=[10]100&animationSpeed=1&lockVertices=0) Christopher Manning
+  * [Spherical Force-Directed Layout](http://bl.ocks.org/christophermanning/4208494) Christopher Manning
 * Envisioning information
   * [D3.js › Examples](https://github.com/d3/d3/wiki/Gallery)
   * [Visual Group Theory](http://web.bentley.edu/empl/c/ncarter/vgt/) Nathan Carter
