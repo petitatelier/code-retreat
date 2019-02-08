@@ -12,7 +12,7 @@ I have experimented few things related to Three.JS and D3.JS
     - Updating the borders and colors
     - Creating a connector
 - Helping to create the retreat announce with Olivier
-- [State of Clojure 2019](https://clojure.org/news/2019/02/04/state-of-clojure-2019) [Olivier] 
+- [State of Clojure 2019](https://clojure.org/news/2019/02/04/state-of-clojure-2019) 
 
 ## 2019-02-06
 - [ThreeJS double sided and textured plane](https://github.com/yveslange/learning-threejs/tree/master/01-rotate-plane)
