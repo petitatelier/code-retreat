@@ -2,8 +2,8 @@
 ## Learning trail · Olivier
 ## Learning trail · Yves
 
-After gathering some ideas into [1-plan.md](./1-plan.md),
-I have experiment few things related to Three.JS and D3.JS
+After gathering some ideas,
+I have experimented few things related to Three.JS and D3.JS
 
 ## 2019-02-05
 - Discovering the basics of Kumu.io 
@@ -11,7 +11,7 @@ I have experiment few things related to Three.JS and D3.JS
     - Creating a sketch
     - Updating the borders and colors
     - Creating a connector
-- Helping to create the ![retreat-announce](./images/2019-02-05 PAGL, retreat announce.png)
+- Helping to create the retreat announce with Olivier
 - [State of Clojure 2019](https://clojure.org/news/2019/02/04/state-of-clojure-2019) [Olivier] 
 
 ## 2019-02-06
