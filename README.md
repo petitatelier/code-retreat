@@ -15,11 +15,19 @@ walk Caju the dog, breathe, and celebrate the happy times,
 
 ## Code retreats
 
-* [December 2018 · Contamines-Montjoie · 4 days](201812-code-retreat/README.md)  
-  Focus on learning Web Workers & experiments.
-* [February–March 2019 · Contamines-Montjoie · 5 weeks](201902-code-retreat/README.md)  
-  Focus on learning Service Workers, Modular routing; building a data plane; and visualization experiments.
+* [February–March 2019 · 5 weeks · Contamines-Montjoie](201902-code-retreat/README.md)  
+  Focus on learning Service Workers; modular routing; building a data plane; streaming data pipes with Streams and Lit-Element; and visualization experiments with Web Components. Walk in snow, cook at home, quiet time, super happy dog.
+* [December 2018 · 4 days · Contamines-Montjoie](201812-code-retreat/README.md)   
+  Focus on learning Web Workers & experiments. Enjoy the fire. Coffee. Happy dog.
+* [May 2017 · 2 weeks · Cornwall & London](201812-code-retreat/README.md)  
+  Focus on learning Neo4j, advanced search recommendations and graph data modelling, graph visualizations. Visit of Eden Project biodomes in Cornwall — we spent our retreat there and lodged in containers. London: training at SkillMaters & attended GraphConnect. Had lots of fun; and some beers!
 
 ## Conferences
 
-`TODO`
+* Firebase Summit 2018 Prague
+* Googe Next 2018 London
+* Polymer Summit 2017 Copenhagen
+* GraphConnect 2017 London
+* Polymer Summit 2016 London
+* EuroClojure 2015 Barcelona
+* (…)
