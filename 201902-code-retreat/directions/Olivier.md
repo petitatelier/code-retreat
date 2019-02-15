@@ -29,7 +29,9 @@ On our way to _Theater Decision Making_, [Data glyphs](https://github.com/olange
   * [Visual Group Theory](http://web.bentley.edu/empl/c/ncarter/vgt/) Nathan Carter
   * [Hamiltonian Graphs](https://www.google.com/search?q=hamiltonian+graphs)
 * Databases
-  * [Dgraph](https://blog.dgraph.io/post/badger-over-rocksdb-in-dgraph/)
+  * [Dgraph](https://dgraph.io/)
+    * [Blog › Why Google needed a graph serving system?](https://blog.dgraph.io/post/why-google-needed-graph-serving-system/)
+    * [Blog › Badger over RocksDB in Dgraph](https://blog.dgraph.io/post/badger-over-rocksdb-in-dgraph/)
 * Knowledge documentation
   * [Kumu](https://kumu.io/)
   * [ObservableHQ](https://beta.observablehq.com/)
