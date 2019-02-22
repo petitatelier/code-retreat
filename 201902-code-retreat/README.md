@@ -4,9 +4,9 @@ Contamines-Montjoie, February–March 2019, 5 weeks in a chalet.
 Olivier, Yves & Caju. Code & study, quietly.
 
 * [Directions / Week 1](#todo)
-* [Trail / Week 1](#todo)
-* [Trail / Week 2](#todo)
-* [Trail / Week 3](#todo)
+* [Trail / Week 1](./week1-trail/README.md)
+* [Trail / Week 2](./week2-trail/README.md)
+* [Trail / Week 3](./week3-trail/README.md)
 * [Trail / Week 4](#todo)
 * [Trail / Week 5](#todo)
 
