@@ -13,6 +13,7 @@ On our way to _Theater Decision Making_, [Data glyphs](https://github.com/olange
   * [Reactive.howi](https://reactive.how/) online resource
 * Databases & in-browser query engine
   * [MDN › IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+  * [thi.ng/rstream-query](https://github.com/thi-ng/umbrella/tree/master/packages/rstream-query) _Triple store & reactive query engine with declarative query specs; push-based, auto-updating query results, which are changing each time upstream transformations & filters have been triggered._
   * [DataScript](https://github.com/tonsky/datascript) _Immutable database and Datalog query engine for Clojure, ClojureScript and JS_
   * [Google Cloud Firestore](https://firebase.google.com/docs/firestore/) _Flexible, scalable NoSQL cloud database to store and sync data for client- and server-side development_
   * [Apollo Client](https://www.apollographql.com/) and [Lit-Apollo](https://github.com/apollo-elements/apollo-elements)
