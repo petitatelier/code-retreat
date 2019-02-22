@@ -1,11 +1,13 @@
 # Week 1 
 ## Learning trail · Olivier
-## Learning trail · Yves
+[TODO]
+
+### Learning trail · Yves
 
 After gathering some ideas,
 I have experimented few things related to Three.JS and D3.JS
 
-## 2019-02-05
+### 2019-02-05
 - Discovering the basics of Kumu.io 
     - Creating a simple node
     - Creating a sketch
@@ -14,12 +16,12 @@ I have experimented few things related to Three.JS and D3.JS
 - Helping to create the retreat announce with Olivier
 - [State of Clojure 2019](https://clojure.org/news/2019/02/04/state-of-clojure-2019) 
 
-## 2019-02-06
+### 2019-02-06
 - [ThreeJS double sided and textured plane](https://github.com/yveslange/learning-threejs/tree/master/01-rotate-plane)
 - [Observable: An Earthquake Globe in Ten Minutes » de Jeremy Ashkenas](https://www.youtube.com/watch?v=uEmDwflQ3xE)
 - [WebGL + d3.layout.force](https://bl.ocks.org/vicapow/7f14a531dec565ca0884)
 
-## 2019-02-07
+### 2019-02-07
 - [ObservableHQ in 5 minutes](https://beta.observablehq.com/@mbostock/five-minute-introduction)
 - [d3indepth introduction](https://d3indepth.com/introduction/)
 - Discussion with Olivier about the data navigation (up/down) with transformation and its reverse transformation.
