@@ -11,15 +11,15 @@ Writing revolves around inspiration – or none, passing time, insights,
 culture, knowledge and effort, rest, never ending practice.
 
 And forget not taking a break, feed the fire to stay warm,
-walk Caju the dog, breathe, and celebrate the happy times,
+walk Caju the dog, breathe, and celebrate the happy times.
 
 ## Code retreats
 
-* [February–March 2019 · 5 weeks · Contamines-Montjoie](201902-code-retreat/README.md)  
-  Focus on learning Service Workers; modular routing; building a data plane; streaming data pipes with Streams and Lit-Element; and visualization experiments with Web Components. Walk in snow, cook at home, quiet time, super happy dog.
-* [December 2018 · 4 days · Contamines-Montjoie](201812-code-retreat/README.md)   
+* [February–March 2019 · 5 weeks · Contamines-Montjoie](201902-code-retreat/README.md)
+  Focus on learning streaming data pipes with Streams and Lit-Element; and visualization experiments with Web Components, ObservableHQ, VEGA, D3 and THREE. Walk in snow, cook at home, quiet time, super happy dog.
+* [December 2018 · 4 days · Contamines-Montjoie](201812-code-retreat/README.md)
   Focus on learning Web Workers & experiments. Enjoy the fire. Coffee. Happy dog.
-* [May 2017 · 2 weeks · Cornwall & London](201812-code-retreat/README.md)  
+* [May 2017 · 2 weeks · Cornwall & London](201812-code-retreat/README.md)
   Focus on learning Neo4j, advanced search recommendations and graph data modelling, graph visualizations. Visit of Eden Project biodomes in Cornwall — we spent our retreat there and lodged in containers. London: training at SkillMaters & attended GraphConnect. Had lots of fun; and some beers!
 
 ## Conferences
@@ -30,4 +30,13 @@ walk Caju the dog, breathe, and celebrate the happy times,
 * GraphConnect 2017 London
 * Polymer Summit 2016 London
 * EuroClojure 2015 Barcelona
+* (…)
+
+## Talks
+
+* [A Primer on Web Components](https://www.meetup.com/fr-FR/GenevaWeb/events/258787967/) `UPCOMING` 11.03.2019, GenevaWeb meetup
+* [Agile Barebones — A Portfolio Explorer in 7 weeks](#TODO) 2017, Soft-Shake Geneva
+* [Apache Cocoon in 60 minutes](#TODO) Hortis, 2004
+* [An XML publishing pipeline](#TODO) IUHEI / TECFA, 2003
+* [XML & XSLT & XSL-FO](#TODO) 2002
 * (…)
