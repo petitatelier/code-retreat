@@ -36,6 +36,7 @@ walk Caju the dog, breathe, and celebrate the happy times.
 
 * [A Primer on Web Components](https://www.meetup.com/fr-FR/GenevaWeb/events/258787967/) `UPCOMING` 11.03.2019, GenevaWeb meetup
 * [Agile Barebones — A Portfolio Explorer in 7 weeks](#TODO) 2017, Soft-Shake Geneva
+* [Gōng-fu I/O en 10 minutes](http://gongfu.io/presentations/10-min/#/step-01) 27.05.2014, Geneva JUG
 * [Apache Cocoon in 60 minutes](#TODO) Hortis, 2004
 * [An XML publishing pipeline](#TODO) IUHEI / TECFA, 2003
 * [XML & XSLT & XSL-FO](#TODO) 2002
