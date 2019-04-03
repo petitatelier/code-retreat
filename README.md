@@ -32,6 +32,12 @@ walk Caju the dog, breathe, and celebrate the happy times.
 * EuroClojure 2015 Barcelona
 * (…)
 
+## Deep-dive & hackathons
+
+* [Mapping Festival 2019](https://2019.mappingfestival.com/workshops_2019_fr.pdf) workshops 6, 9 & 10
+* Machine Learning Bootcamp / Google Next 2018 London
+* [Museomix 2014 Geneva](https://www.museomix.org/editions/2014/geneve)
+
 ## Talks
 
 * [A Primer on Web Components](https://www.meetup.com/fr-FR/GenevaWeb/events/258787967/) `UPCOMING` 11.03.2019, GenevaWeb meetup
