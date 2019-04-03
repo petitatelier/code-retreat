@@ -24,19 +24,19 @@ walk Caju the dog, breathe, and celebrate the happy times.
 
 ## Conferences
 
-* Firebase Summit 2018 Prague
-* Googe Next 2018 London
-* Polymer Summit 2017 Copenhagen
-* GraphConnect 2017 London
-* Polymer Summit 2016 London
-* EuroClojure 2015 Barcelona
+* Firebase Summit 2018 Prague · 1 day
+* Google Next 2018 London · 3 days
+* Polymer Summit 2017 Copenhagen · 2 days
+* GraphConnect 2017 London · 2 days
+* Polymer Summit 2016 London · 2 days
+* EuroClojure 2015 Barcelona · 2 days
 * (…)
 
 ## Deep-dive & hackathons
 
-* [Mapping Festival 2019](https://2019.mappingfestival.com/workshops_2019_fr.pdf) workshops 6, 9 & 10
-* Machine Learning Bootcamp / Google Next 2018 London
-* [Museomix 2014 Geneva](https://www.museomix.org/editions/2014/geneve)
+* [Mapping Festival 2019](https://2019.mappingfestival.com/workshops_2019_fr.pdf) workshops 6, 9 & 10 · 3 days
+* Google Next 2018 London / Machine Learning Bootcamp · 1 day
+* [Museomix 2014 Geneva](https://www.museomix.org/editions/2014/geneve) · 3 days
 
 ## Talks
 
