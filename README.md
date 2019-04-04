@@ -1,4 +1,4 @@
-# Code retreats · `GOTO flow`
+# Code retreats `GOTO :flow`
 
 [![Chat on Slack](./.chat-on-slack.svg)](https://petit-atelier.slack.com/messages/CFYLHHC1G/)
 
@@ -35,7 +35,7 @@ walk Caju the dog, breathe, and celebrate the happy times.
 ## Deep-dive & hackathons
 
 * [Mapping Festival 2019](https://2019.mappingfestival.com/workshops_2019_fr.pdf) workshops 6, 9 & 10 · 3 days
-* Google Next 2018 London / Machine Learning Bootcamp · 1 day
+* [Google Next 2018 London / End-to-End Machine Learning with TensorFlow on GCP](https://cloud.withgoogle.com/next18/london/sessions/session/245765) · 1 day
 * [Museomix 2014 Geneva](https://www.museomix.org/editions/2014/geneve) · 3 days
 
 ## Talks
