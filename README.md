@@ -37,6 +37,8 @@ walk Caju the dog, breathe, and celebrate the happy times.
 * [Mapping Festival 2019](https://2019.mappingfestival.com/workshops_2019_fr.pdf) workshops 6, 9 & 10 · 3 days
 * [Google Next 2018 London / End-to-End Machine Learning with TensorFlow on GCP](https://cloud.withgoogle.com/next18/london/sessions/session/245765) · 1 day
 * [Museomix 2014 Geneva](https://www.museomix.org/editions/2014/geneve) · 3 days
+* [Clojure Training with Lambda Next](https://github.com/olange/learning-clojure/wiki/Clojure-Training-with-Lambda-Next-·-Day-1) · 3 days
+* [Gōng-fu I/O sessions](https://www.meetup.com/fr-FR/gōngfuIO/) · 2 hours every week, since 5 years
 
 ## Talks
 
