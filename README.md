@@ -47,3 +47,15 @@ walk Caju the dog, breathe, and celebrate the happy times.
 * [An XML publishing pipeline](#TODO) IUHEI / TECFA, 2003
 * [XML & XSLT & XSL-FO](#TODO) 2002
 * (…)
+
+## Learning
+
+* [Learning Neo4j](https://github.com/olange/learning-neo4j)
+* [Learning Service Workers](https://olange.github.io/learning-service-workers/)
+* [Learning Streams and Observables](https://github.com/olange/learning-streams/)
+* [Learning WebGL](https://github.com/olange/learning-webgl/)
+* [Learning Polymer](https://github.com/olange/learning-polymer/)
+* [Learning GraphQL](https://github.com/olange/learning-graphql/)
+* [Learning MongoDB](https://github.com/olange/learning-mongodb/)
+* [Learning Javascript](https://github.com/olange/learning-javascript/)
+* [Learning Clojure](https://github.com/olange/learning-clojure/)
