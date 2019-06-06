@@ -21,6 +21,9 @@ walk Caju the dog, breathe, and celebrate the happy times.
   Focus on learning Web Workers & experiments. Enjoy the fire. Coffee. Happy dog.
 * [May 2017 · 2 weeks · Cornwall & London](201812-code-retreat/README.md)
   Focus on learning Neo4j, advanced search recommendations and graph data modelling, graph visualizations. Visit of Eden Project biodomes in Cornwall — we spent our retreat there and lodged in containers. London: training at SkillMaters & attended GraphConnect. Had lots of fun; and some beers!
+* [March 2016 · 2 weeks · Saas-Fee](#TODO)  
+  Knowledge graph and topographic visualizations with Unity and C#  
+  Understanding Datomic, DataScript and trying to reimplement a minimal version in C#
 
 ## Conferences
 
