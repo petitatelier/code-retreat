@@ -28,6 +28,7 @@ On our way to _Theater Decision Making_, [Data glyphs](https://github.com/olange
   * [Spherical Force-Directed Layout](http://bl.ocks.org/christophermanning/4208494) Christopher Manning
   * [Mitsuba Instant Meshes](https://www.foundry.com/%20insights/vr-ar-mr/mitsuba-renderer-instant-meshes) Wenzel Jakob
 * Envisioning information
+  * [Apache ECharts](https://echarts.apache.org/en/index.html)
   * [D3.js › Examples](https://github.com/d3/d3/wiki/Gallery)
   * [Visual Group Theory](http://web.bentley.edu/empl/c/ncarter/vgt/) Nathan Carter
   * [Hamiltonian Graphs](https://www.google.com/search?q=hamiltonian+graphs)
