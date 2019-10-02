@@ -27,8 +27,9 @@ walk Caju the dog, breathe, and celebrate the happy times.
 
 ## Conferences
 
-* Firebase Summit 2018 Prague · 1 day
-* Google Next 2018 London · 3 days
+* [Firebase Summit 2019 Madrid](https://firebase.google.com/summit) · 1 day · 26.09.2019
+* [Firebase Summit 2018 Prague](https://firebase.google.com/summit) · 1 day · 29.10.2018
+* [Google Next 2018 London](https://cloud.withgoogle.com/next/) · 3 days · 10–12.10.2018
 * Polymer Summit 2017 Copenhagen · 2 days
 * GraphConnect 2017 London · 2 days
 * Polymer Summit 2016 London · 2 days
