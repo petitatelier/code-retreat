@@ -46,7 +46,7 @@ walk Caju the dog, breathe, and celebrate the happy times.
 
 ## Talks
 
-* [A Primer on GraphQL](https://genevajug.ch/jug/archive.html?event=graphql_a_data_language_and_new_paradigm_for_apis) `UPCOMING` 29.10.2019, GenevaJUG meetup
+* [A Primer on GraphQL](https://github.com/petitatelier/graphql-primer) 29.10.2019, GenevaJUG meetup
 * [A Primer on Web Components](https://www.meetup.com/fr-FR/GenevaWeb/events/258787967/) 11.03.2019, GenevaWeb meetup
 * [Agile Barebones — A Portfolio Explorer in 7 weeks](https://www.kora.li/admin.html#/index/p?u=olange&s=myloim-agile-barebones&c=softshake&e=Donkey_Kong) 27.10.2016, Soft-Shake Geneva
 * [Gōng-fu I/O en 10 minutes](http://gongfu.io/presentations/10-min/#/step-01) 27.05.2014, Geneva JUG
