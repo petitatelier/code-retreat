@@ -9,6 +9,9 @@ On our way to _Theater Decision Making_, [Data glyphs](https://github.com/olange
   * [Declarative Router](https://jakearchibald.com/2019/service-worker-declarative-router/) Jake Archibald, 07.01.2019
   * [Learning Service Workers › Service Workies](https://serviceworkies.com/) mastery game
 * [Learning Streams and Observables](https://github.com/olange/learning-streams/) research track
+  * [Web streams that work across web workers and ‹iframe›s](https://github.com/MattiasBuelens/remote-web-streams/) Mattias Buelens
+  * [Transferable Streams Explained](https://github.com/whatwg/streams/blob/master/transferable-streams-explainer.md) WhatWG, Adam Rice
+  * [WebCodecs Explainer](https://github.com/WICG/web-codecs/blob/master/explainer.md) WICG, Peter Thatcher et al.
   * [thi.ng/rstream](https://github.com/thi-ng/umbrella/tree/master/packages/rstream) _Lightweight reactive multi-tap streams and transducer based transformation pipeline constructs, written in TypeScript_
   * [Reactive.howi](https://reactive.how/) online resource
 * Databases & in-browser query engine
