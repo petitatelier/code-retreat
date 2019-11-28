@@ -33,7 +33,7 @@ walk Caju the dog, breathe, and celebrate the happy times.
 * [Polymer Summit 2017](https://summit.polymer-project.org) Copenhagen · 2 days
 * [GraphConnect Europe 2017](https://graphconnect.com/gc2017-europe/) London · 2 days
 * [Polymer Summit 2016](https://www.polymer-project.org/summit-2016/) London · 2 days
-* EuroClojure 2015 Barcelona · 2 days
+* [EuroClojure 2015](https://2016.euroclojure.org/speakers-2015) Barcelona · 2 days
 * (…)
 
 ## Deep-dive & hackathons
