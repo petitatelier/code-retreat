@@ -30,9 +30,9 @@ walk Caju the dog, breathe, and celebrate the happy times.
 * [Firebase Summit 2019 Madrid](https://firebase.google.com/summit) · 1 day · 26.09.2019
 * [Firebase Summit 2018 Prague](https://firebase.google.com/summit) · 1 day · 29.10.2018
 * [Google Next 2018 London](https://cloud.withgoogle.com/next/) · 3 days · 10–12.10.2018
-* Polymer Summit 2017 Copenhagen · 2 days
+* [Polymer Summit 2017](https://summit.polymer-project.org) Copenhagen · 2 days
 * [GraphConnect Europe 2017](https://graphconnect.com/gc2017-europe/) London · 2 days
-* Polymer Summit 2016 London · 2 days
+* [Polymer Summit 2016](https://www.polymer-project.org/summit-2016/) London · 2 days
 * EuroClojure 2015 Barcelona · 2 days
 * (…)
 
