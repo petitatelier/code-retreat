@@ -31,7 +31,7 @@ walk Caju the dog, breathe, and celebrate the happy times.
 * [Firebase Summit 2018 Prague](https://firebase.google.com/summit) · 1 day · 29.10.2018
 * [Google Next 2018 London](https://cloud.withgoogle.com/next/) · 3 days · 10–12.10.2018
 * Polymer Summit 2017 Copenhagen · 2 days
-* GraphConnect 2017 London · 2 days
+* [GraphConnect Europe 2017](https://graphconnect.com/gc2017-europe/) London · 2 days
 * Polymer Summit 2016 London · 2 days
 * EuroClojure 2015 Barcelona · 2 days
 * (…)
@@ -40,6 +40,7 @@ walk Caju the dog, breathe, and celebrate the happy times.
 
 * [Mapping Festival 2019 / Workshops 6, 9 & 10](https://2019.mappingfestival.com/mapping-festival-2019-15e-edition/workshops/) Geneva · 3 days
 * [Google Next 2018 / End-to-End Machine Learning with TensorFlow on GCP](https://cloud.withgoogle.com/next18/london/sessions/session/245765) London · 1 day
+* [GraphConnect Europe 2017 / Neo4j Advanced Training](https://github.com/olange/learning-neo4j) London · 1 day
 * [Museomix 2014](https://www.museomix.org/editions/2014/geneve) Geneva · 3 days
 * [Clojure Training with Lambda Next](https://github.com/olange/learning-clojure/wiki/Clojure-Training-with-Lambda-Next-·-Day-1) Geneva · 3 days
 * [Gōng-fu I/O sessions](https://www.meetup.com/fr-FR/gōngfuIO/) Geneva · 2 hours every week, since 5 years
