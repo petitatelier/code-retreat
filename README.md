@@ -15,6 +15,7 @@ walk Caju the dog, breathe, and celebrate the happy times.
 
 ## Code retreats
 
+* March–April 2020 · 4 weeks · Celebrating 20 years of coding and challenging ourselves · Surprize!
 * [February–March 2019 · 5 weeks · Contamines-Montjoie](201902-code-retreat/README.md)
   Focus on learning streaming data pipes with Streams and Lit-Element; and visualization experiments with Web Components, ObservableHQ, VEGA, D3 and THREE. Walk in snow, cook at home, quiet time, super happy dog.
 * [December 2018 · 4 days · Contamines-Montjoie](201812-code-retreat/README.md)
